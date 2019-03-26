@@ -1,0 +1,24 @@
+{
+  "name": "lunr-highlighter",
+  "version": "1.0.1",
+  "description": "Automates lunr results highlighting",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuberek/lunr-highlighter.git"
+  },
+  "keywords": [
+    "lunr",
+    "highlighter",
+    "zuberek"
+  ],
+  "author": "Jan Dabrowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zuberek/lunr-highlighter/issues"
+  },
+  "homepage": "https://github.com/zuberek/lunr-highlighter#readme"
+}
